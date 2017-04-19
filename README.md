@@ -1,4 +1,7 @@
-# test coverage for  [silly-datetime (v0.1.2)](https://github.com/csbun/silly-datetime)  [![npm package](https://img.shields.io/npm/v/npmtest-silly-datetime.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-silly-datetime) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-silly-datetime.svg)](https://travis-ci.org/npmtest/node-npmtest-silly-datetime)
+# npmtest-silly-datetime
+
+#### basic test coverage for  [silly-datetime (v0.1.2)](https://github.com/csbun/silly-datetime)  [![npm package](https://img.shields.io/npm/v/npmtest-silly-datetime.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-silly-datetime) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-silly-datetime.svg)](https://travis-ci.org/npmtest/node-npmtest-silly-datetime)
+
 #### simple datetime formater
 
 [![NPM](https://nodei.co/npm/silly-datetime.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/silly-datetime)
